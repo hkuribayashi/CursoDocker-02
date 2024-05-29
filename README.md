@@ -18,7 +18,7 @@ Objetivo: Neste exercício você aprenderá como realizar o build de uma imagem 
    Ao confirmar o arquivo Dockerfile realize o build a imagem. Altere o termo nome_da_imagem de acordo com sua preferência, assim como a tag da imagem.
 
    ```bash
-   docker images build -t nome_da_imagem:tag
+   docker image build -t nome_da_imagem:tag
    ```
    Após, você deve ver a imagem foi criada:
 
@@ -44,7 +44,7 @@ Objetivo: Neste exercício você aprenderá como realizar o build de uma imagem 
    Liste os contêineres em execução para verificar se tudo está ok.
 
    ```bash
-   docker ps
+   docker container ps
    ```
 
 7. **Acessando os Serviços Nginx**
