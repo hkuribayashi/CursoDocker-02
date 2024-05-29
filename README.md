@@ -49,7 +49,7 @@ Objetivo: Neste exercício você aprenderá como realizar o build de uma imagem 
 
 7. **Acessando os Serviços Nginx**
 
-   Acesse os serviços criados com o link [[documentação oficial](http://localhost:5000/)](http://localhost:5000/) e verifique o que ocorreu.
+   Acesse os serviços criados com o link [http://localhost:5000/](http://localhost:5000/) e verifique o que ocorreu.
 
 #### Conclusão
 
